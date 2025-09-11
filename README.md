@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Boomika%20S-Currently%20learning%20Data%20Science%20and%20Machine%20Learning-radical" alt="Boomika Banner" />
+  <img src="https://img.shields.io/badge/Boomika%20S-Currently%20learning%20Data%20Science%20and%20Machine%20Learning-radical?style=flatlogoSize=150" alt="Boomika Banner" />
 </p>
 
 # 👋 Hi, I'm Boomika!
