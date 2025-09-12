@@ -1,61 +1,72 @@
-# 👋 Hi, I'm Boomika!
-*Computer Science & Engineering Student @ Bannari Amman Institute of Technology (Batch 2024–28)*  
-*Exploring Data Science & Machine Learning 🚀*
-
----
-
-## 🛠️ Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🏆 Achievements
-- 🥉 **2nd Runner-up** at *LudoHack Hackathon*  
-- 📜 Completed **4+ Certification Courses**
-
----
-
-## 🌱 Currently Learning
-- 📊 Advanced Machine Learning Techniques  
-- 💡 Building Impactful Data Projects  
-
----
-
-## 📌 Featured Projects
-- 🚕 [**Uber Ride Fare Prediction**](https://github.com/boomiikas/Uber-Ride-Fare-Prediction---E2E-ML-)  
-  *End-to-end ML project predicting NYC taxi fares using KNN & other regressors; built with Python + Streamlit*  
-
-- 💼 [**San Francisco Employee Salary EDA**](https://github.com/boomiikas/San-Francisco-city-employee-salary-Analysis-by-EDA-and-Feature-Engineering)  
-  *Exploratory data analysis & feature engineering on city employee salaries; uncovering pay trends & disparities*  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="Boomika's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomiikas&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+<h1 align="center">Hi 👋, I'm Boomika S</h1>
+<h3 align="center">Data Science & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomiikas&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=24A500&center=true&vCenter=true&width=900&lines=Passionate+Learner;Exploring+Data+Science+%26+Machine+Learning;Turning+Data+into+Insights;Always+Curious+%26+Innovative">
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+---
+
+## 🚀 **About Me**
+I'm a Computer Science student passionate about technology, data, and innovation.  
+Currently diving deep into **Machine Learning & Data Science**, with hands-on projects and experiments in Python.  
+Curiosity drives me to explore new tools, technologies, and ways to create meaningful impact.
+
+---
+
+## 🏆 **Trophies**
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=boomiikas&theme=discord" alt="boomiikas" />
+  </a> 
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 🤝 **Connect with me**
 <p align="left">
-  <a href="mailto:boomikas2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/boomika-s-981b55311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/boomiikas"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/boomiikas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/boomika-s-981b55311/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://leetcode.com/boomikas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@boomsdotcom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
 
-> ✨ *"Bugs are learning opportunities. Fixing them makes me better. Minimalist code, maximal impact."* ✨
+## 🛠️ **Languages and Tools**
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+## 🧩 **LeetCode Stats**
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=boomikas&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+---
+
+## 📈 **GitHub Activity Graph**
+[![Boomika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boomiikas&bg_color=d1e9ff&color=000000&line=4c8a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
