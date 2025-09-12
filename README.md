@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=24A500&center=true&vCenter=true&width=900&lines=Passionate+Learner;Exploring+Data+Science+%26+Machine+Learning;Turning+Data+into+Insights;Always+Curious+%26+Innovative">
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 ---
 
