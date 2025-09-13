@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Boomika S</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=500&center=true&vCenter=true&width=600&color=49BF7C&lines=Hi,+I'm+Boomika;Welcome+to+My+GitHub!" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Data Science & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=24A500&center=true&vCenter=true&width=900&lines=Passionate+Learner;Exploring+Data+Science+%26+Machine+Learning;Turning+Data+into+Insights;Always+Curious+%26+Innovative">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=6F65BE&center=true&vCenter=true&width=900&lines=Passionate+Learner;Exploring+Data+Science+%26+Machine+Learning;Turning+Data+into+Insights;Always+Curious+%26+Innovative">
 </p>
 
 <p align="center">
