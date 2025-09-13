@@ -14,24 +14,24 @@
 
 ---
 
-## 🚀 **About Me**
-I'm a Computer Science Engineering student passionate about technology, data, and innovation.  
-Currently diving deep into **Machine Learning & Data Science**, with hands-on projects and experiments in Python.  
-Curiosity drives me to explore new tools, technologies, and ways to create meaningful impact.
+## 🚀 About Me
+- Computer Science Engineering student  
+- Exploring Machine Learning & Data Science  
+- Working with Python for projects and experiments  
+- Curious about new tools, technologies, and problem-solving  
+- Passionate about building projects with real-world impact  
 
 ---
 
-## 🏆 **Trophies**
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=boomiikas&theme=discord" alt="boomiikas" />
-  </a> 
+## 🏆 Trophies
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=boomiikas&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🤝 **Connect with me**
-<p align="left">
+## 🤝 Connect with me
+<p align="center">
   <a href="https://x.com/boomiikas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/boomika-s-981b55311/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://leetcode.com/boomikas" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
@@ -40,8 +40,8 @@ Curiosity drives me to explore new tools, technologies, and ways to create meani
 
 ---
 
-## 🛠️ **Languages and Tools**
-<p align="left">
+## 🛠️ Languages and Tools
+<p align="center">
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/> </a>
@@ -53,25 +53,25 @@ Curiosity drives me to explore new tools, technologies, and ways to create meani
 
 ---
 
-## 📊 **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="160"/>
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🧩 **LeetCode Stats**
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=boomikas&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=boomikas&theme=dark" alt="LeetCode Stats"/>
+</p>
 
 ---
 
-## 📈 **GitHub Activity Graph**
-[![Boomika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boomiikas&bg_color=d1e9ff&color=000000&line=4c8a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boomiikas&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
