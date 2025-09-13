@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 **About Me**
-I'm a Computer Science student passionate about technology, data, and innovation.  
+I'm a Computer Science Engineering student passionate about technology, data, and innovation.  
 Currently diving deep into **Machine Learning & Data Science**, with hands-on projects and experiments in Python.  
 Curiosity drives me to explore new tools, technologies, and ways to create meaningful impact.
 
