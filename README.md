@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Coding Girl" width="600" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+  <img alt="Coding Girl" width="600" src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/coding-girl.gif" width="600">
 </p>
 
 ---
@@ -20,13 +20,6 @@
 - Working with Python for projects and experiments  
 - Curious about new tools, technologies, and problem-solving  
 - Passionate about building projects with real-world impact  
-
----
-
-## 🏆 Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=boomiikas&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -66,9 +59,8 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=boomikas&theme=dark" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/boomikas?theme=dark&font=Baloo&ext=heatmap" />
 </p>
-
 ---
 
 ## 📈 GitHub Activity Graph
