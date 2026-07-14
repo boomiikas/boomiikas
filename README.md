@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=boomiikas&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="160"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
@@ -59,7 +59,7 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/boomikas?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/boomikas?theme=catppuccinMocha&font=Baloo&ext=heatmap" />
 </p>
 ---
 
