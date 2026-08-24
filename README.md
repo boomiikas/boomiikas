@@ -52,14 +52,14 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/boomikas?theme=catppuccinMocha&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/boomikas?font=Baloo&ext=heatmap&colors=1e1e2e,181825,cdd6f4,a6adc8,0e4429,006d32,26a641,39d353" />
 </p>
 ---
 
