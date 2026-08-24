@@ -52,7 +52,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=boomiikas&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="160"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=boomiikas&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=boomiikas&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
