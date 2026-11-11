@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="100%" height="100%">
+  <defs>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 700; fill: #58a6ff; letter-spacing: 0.5px; }
+      .text-center { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 700; fill: #ffffff; text-anchor: middle; dominant-baseline: middle; }
+      .text-branch { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #ffffff; text-anchor: middle; dominant-baseline: middle; }
+      .text-leaf { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 500; text-anchor: middle; dominant-baseline: middle; }
+      .branch-line { fill: none; stroke-linecap: round; }
+    </style>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <filter id="glow-center" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#38bdf8" flood-opacity="0.4" />
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="560" rx="14" fill="url(#bg-grad)" stroke="#334155" stroke-width="1.5" />
+
+  <!-- Title bar -->
+  <g transform="translate(32, 40)">
+    <text class="title" x="0" y="0">📈 ML/DL Specializations</text>
+  </g>
+
+  <!-- CONNECTING BRANCHES -->
+  <!-- Center to MLOps -->
+  <path d="M 445 280 C 375 260, 345 200, 300 195" class="branch-line" stroke="#f59e0b" stroke-width="3.5" opacity="0.8" />
+  <!-- MLOps to Leaves -->
+  <path d="M 300 195 C 265 190, 240 140, 220 130" class="branch-line" stroke="#d97706" stroke-width="2" opacity="0.7" />
+  <path d="M 300 195 C 325 170, 345 145, 375 130" class="branch-line" stroke="#d97706" stroke-width="2" opacity="0.7" />
+  <path d="M 300 195 C 235 200, 185 230, 130 240" class="branch-line" stroke="#d97706" stroke-width="2" opacity="0.7" />
+  <path d="M 300 195 C 255 240, 225 275, 195 305" class="branch-line" stroke="#d97706" stroke-width="2" opacity="0.7" />
+
+  <!-- Center to Computer Vision -->
+  <path d="M 555 280 C 625 260, 630 195, 680 185" class="branch-line" stroke="#60a5fa" stroke-width="3.5" opacity="0.8" />
+  <!-- Computer Vision to Leaves -->
+  <path d="M 680 185 C 640 150, 580 120, 520 95" class="branch-line" stroke="#3b82f6" stroke-width="2" opacity="0.7" />
+  <path d="M 680 185 C 695 145, 720 125, 755 110" class="branch-line" stroke="#3b82f6" stroke-width="2" opacity="0.7" />
+  <path d="M 680 185 C 730 200, 780 205, 835 215" class="branch-line" stroke="#3b82f6" stroke-width="2" opacity="0.7" />
+  <path d="M 680 185 C 695 235, 690 270, 680 300" class="branch-line" stroke="#3b82f6" stroke-width="2" opacity="0.7" />
+
+  <!-- Center to NLP -->
+  <path d="M 455 305 C 410 350, 365 390, 325 410" class="branch-line" stroke="#2dd4bf" stroke-width="3.5" opacity="0.8" />
+  <!-- NLP to Leaves -->
+  <path d="M 325 410 C 295 380, 290 355, 280 330" class="branch-line" stroke="#14b8a6" stroke-width="2" opacity="0.7" />
+  <path d="M 325 410 C 255 410, 195 415, 135 425" class="branch-line" stroke="#14b8a6" stroke-width="2" opacity="0.7" />
+  <path d="M 325 410 C 265 450, 225 480, 205 500" class="branch-line" stroke="#14b8a6" stroke-width="2" opacity="0.7" />
+  <path d="M 325 410 C 345 460, 365 485, 395 515" class="branch-line" stroke="#14b8a6" stroke-width="2" opacity="0.7" />
+
+  <!-- Center to Deep Learning -->
+  <path d="M 545 305 C 590 350, 620 380, 665 405" class="branch-line" stroke="#e879f9" stroke-width="3.5" opacity="0.8" />
+  <!-- Deep Learning to Leaves -->
+  <path d="M 665 405 C 695 365, 735 335, 785 315" class="branch-line" stroke="#c026d3" stroke-width="2" opacity="0.7" />
+  <path d="M 665 405 C 730 420, 780 435, 825 450" class="branch-line" stroke="#c026d3" stroke-width="2" opacity="0.7" />
+  <path d="M 665 405 C 685 450, 690 490, 690 520" class="branch-line" stroke="#c026d3" stroke-width="2" opacity="0.7" />
+  <path d="M 665 405 C 610 445, 565 475, 520 500" class="branch-line" stroke="#c026d3" stroke-width="2" opacity="0.7" />
+
+  <!-- CENTER NODE -->
+  <g transform="translate(500, 280)" filter="url(#glow-center)">
+    <circle r="60" fill="#1e293b" stroke="#38bdf8" stroke-width="3.5" />
+    <text class="text-center" x="0" y="-8">AI / ML</text>
+    <text class="text-center" x="0" y="14">Engineer</text>
+  </g>
+
+  <!-- MLOps SUBTREE (Top Left) -->
+  <g transform="translate(300, 195)" filter="url(#shadow)">
+    <rect x="-52" y="-19" width="104" height="38" rx="10" fill="#78350f" stroke="#f59e0b" stroke-width="2.5" />
+    <text class="text-branch" x="0" y="1">MLOps</text>
+  </g>
+  <!-- Leaves for MLOps -->
+  <g transform="translate(220, 130)" filter="url(#shadow)">
+    <rect x="-72" y="-16" width="144" height="32" rx="7" fill="#1c1917" stroke="#b45309" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fef3c7" x="0" y="1">CI/CD Pipelines</text>
+  </g>
+  <g transform="translate(375, 130)" filter="url(#shadow)">
+    <rect x="-58" y="-16" width="116" height="32" rx="7" fill="#1c1917" stroke="#b45309" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fef3c7" x="0" y="1">A/B Testing</text>
+  </g>
+  <g transform="translate(130, 240)" filter="url(#shadow)">
+    <rect x="-80" y="-16" width="160" height="32" rx="7" fill="#1c1917" stroke="#b45309" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fef3c7" x="0" y="1">Model Deployment</text>
+  </g>
+  <g transform="translate(195, 305)" filter="url(#shadow)">
+    <rect x="-78" y="-16" width="156" height="32" rx="7" fill="#1c1917" stroke="#b45309" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fef3c7" x="0" y="1">Model Monitoring</text>
+  </g>
+
+  <!-- COMPUTER VISION SUBTREE (Top Right) -->
+  <g transform="translate(680, 185)" filter="url(#shadow)">
+    <rect x="-78" y="-19" width="156" height="38" rx="10" fill="#1e3a8a" stroke="#60a5fa" stroke-width="2.5" />
+    <text class="text-branch" x="0" y="1">Computer Vision</text>
+  </g>
+  <!-- Leaves for Computer Vision -->
+  <g transform="translate(520, 95)" filter="url(#shadow)">
+    <rect x="-62" y="-16" width="124" height="32" rx="7" fill="#0f172a" stroke="#3b82f6" stroke-width="1.8" />
+    <text class="text-leaf" fill="#dbeafe" x="0" y="1">OCR Systems</text>
+  </g>
+  <g transform="translate(755, 110)" filter="url(#shadow)">
+    <rect x="-88" y="-16" width="176" height="32" rx="7" fill="#0f172a" stroke="#3b82f6" stroke-width="1.8" />
+    <text class="text-leaf" fill="#dbeafe" x="0" y="1">Image Segmentation</text>
+  </g>
+  <g transform="translate(835, 215)" filter="url(#shadow)">
+    <rect x="-78" y="-16" width="156" height="32" rx="7" fill="#0f172a" stroke="#3b82f6" stroke-width="1.8" />
+    <text class="text-leaf" fill="#dbeafe" x="0" y="1">Object Detection</text>
+  </g>
+  <g transform="translate(680, 300)" filter="url(#shadow)">
+    <rect x="-78" y="-16" width="156" height="32" rx="7" fill="#0f172a" stroke="#3b82f6" stroke-width="1.8" />
+    <text class="text-leaf" fill="#dbeafe" x="0" y="1">Face Recognition</text>
+  </g>
+
+  <!-- NLP SUBTREE (Bottom Left) -->
+  <g transform="translate(325, 410)" filter="url(#shadow)">
+    <rect x="-44" y="-19" width="88" height="38" rx="10" fill="#0f766e" stroke="#2dd4bf" stroke-width="2.5" />
+    <text class="text-branch" x="0" y="1">NLP</text>
+  </g>
+  <!-- Leaves for NLP -->
+  <g transform="translate(280, 330)" filter="url(#shadow)">
+    <rect x="-78" y="-16" width="156" height="32" rx="7" fill="#042f2e" stroke="#0d9488" stroke-width="1.8" />
+    <text class="text-leaf" fill="#ccfbf1" x="0" y="1">Sentiment Analysis</text>
+  </g>
+  <g transform="translate(135, 425)" filter="url(#shadow)">
+    <rect x="-108" y="-16" width="216" height="32" rx="7" fill="#042f2e" stroke="#0d9488" stroke-width="1.8" />
+    <text class="text-leaf" fill="#ccfbf1" x="0" y="1">Named Entity Recognition</text>
+  </g>
+  <g transform="translate(205, 500)" filter="url(#shadow)">
+    <rect x="-82" y="-16" width="164" height="32" rx="7" fill="#042f2e" stroke="#0d9488" stroke-width="1.8" />
+    <text class="text-leaf" fill="#ccfbf1" x="0" y="1">Text Classification</text>
+  </g>
+  <g transform="translate(395, 515)" filter="url(#shadow)">
+    <rect x="-86" y="-16" width="172" height="32" rx="7" fill="#042f2e" stroke="#0d9488" stroke-width="1.8" />
+    <text class="text-leaf" fill="#ccfbf1" x="0" y="1">Question Answering</text>
+  </g>
+
+  <!-- DEEP LEARNING SUBTREE (Bottom Right) -->
+  <g transform="translate(665, 405)" filter="url(#shadow)">
+    <rect x="-70" y="-19" width="140" height="38" rx="10" fill="#701a75" stroke="#e879f9" stroke-width="2.5" />
+    <text class="text-branch" x="0" y="1">Deep Learning</text>
+  </g>
+  <!-- Leaves for Deep Learning -->
+  <g transform="translate(785, 315)" filter="url(#shadow)">
+    <rect x="-68" y="-16" width="136" height="32" rx="7" fill="#2e1065" stroke="#a21caf" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fae8ff" x="0" y="1">RNNs &amp; LSTMs</text>
+  </g>
+  <g transform="translate(825, 450)" filter="url(#shadow)">
+    <rect x="-48" y="-16" width="96" height="32" rx="7" fill="#2e1065" stroke="#a21caf" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fae8ff" x="0" y="1">CNNs</text>
+  </g>
+  <g transform="translate(520, 500)" filter="url(#shadow)">
+    <rect x="-65" y="-16" width="130" height="32" rx="7" fill="#2e1065" stroke="#a21caf" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fae8ff" x="0" y="1">Transformers</text>
+  </g>
+  <g transform="translate(690, 520)" filter="url(#shadow)">
+    <rect x="-45" y="-16" width="90" height="32" rx="7" fill="#2e1065" stroke="#a21caf" stroke-width="1.8" />
+    <text class="text-leaf" fill="#fae8ff" x="0" y="1">GANs</text>
+  </g>
+</svg>
