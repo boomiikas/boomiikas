@@ -146,12 +146,12 @@ I enjoy turning ideas into working products — from designing system architectu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boomiikas&show_icons=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_color=21262d" height="175" alt="Boomika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boomiikas&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=21262d" height="175" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=boomiikas&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Boomika's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=boomiikas&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=boomiikas&background=0d1117&border=21262d&stroke=21262d&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=boomiikas&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
