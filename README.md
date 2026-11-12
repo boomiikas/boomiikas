@@ -101,7 +101,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Groq-0B1E4A?style=flat-square"/>
 <img src="https://img.shields.io/badge/pgvector-0B1E4A?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/ChromaDB-0B1E4A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zoho_Catalyst-0B1E4A?style=flat-square"/>
 
 </div>
 
