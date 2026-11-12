@@ -1,175 +1,137 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=600&color=38BDF8&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Boomika+%F0%9F%91%8B;Computer+Science+%26+Engineering+Undergraduate;Building+Practical+AI+%26+Software+Solutions;Turning+Ideas+into+Working+Products" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Computer Science &amp; Engineering Undergraduate &bull; Software &amp; AI Engineer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,50:1E3A8A,100:38BDF8&height=280&section=header&text=Hi%2C%20I'm%20Boomika&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=Building%20AI%20Agents%20%C2%B7%20Engineering%20Software&descSize=24&descColor=E0F2FE&descAlignY=62" width="100%" alt="Boomika banner"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/boomiikas05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/boomikas" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://x.com/boomiikas" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@boomsdotcom" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:boomikas2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&lines=I+build+AI+agents+that+plan%2C+use+tools+%26+deliver;Multi-agent+systems+%C2%B7+RAG+%C2%B7+LLM+apps;CSE+undergraduate+turning+ideas+into+products" alt="Typing SVG" />
 
----
+<br/>
 
-## 👩‍💻 About Me
+<a href="https://www.linkedin.com/in/boomiikas05/"><img height="56" src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/boomikas"><img height="56" src="https://img.shields.io/badge/LeetCode-0B1E4A?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/></a>
+<a href="mailto:boomikas2007@gmail.com"><img height="56" src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=0B1220"/></a>
 
-I'm a Computer Science and Engineering undergraduate at Bannari Amman Institute of Technology, passionate about building practical software solutions that combine AI and software engineering.
+</div>
 
-I enjoy turning ideas into working products — from designing system architectures and developing backend services to integrating AI models and building scalable, database-driven applications.
+<br/>
 
-- Building AI-powered applications, RAG pipelines, and multi-agent systems.
-- Developing full-stack applications, REST APIs, and backend architectures.
-- Exploring machine learning, system design, and intelligent automation.
-- Strengthening problem-solving through Data Structures & Algorithms and open-source contributions.
+<h2 align="center">🤖 &nbsp;Who I Am</h2>
 
-**Build with purpose. Engineer with clarity. Keep improving.**
+I'm a **Computer Science and Engineering undergraduate at Bannari Amman Institute of Technology**. I like building AI systems that don't stop at a demo: agents that reason over data, call tools, and hand back something a person can actually use.
 
----
+- 🧠 Building AI-powered applications, RAG pipelines, and multi-agent systems
+- ⚙️ Developing full-stack apps, REST APIs, and backend architectures
+- 📈 Exploring machine learning, system design, and intelligent automation
+- 🧩 Sharpening problem-solving through Data Structures & Algorithms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TECH%20STACK-0284C7?style=for-the-badge" alt="Tech Stack" />
-</p>
+> **Build with purpose. Engineer with clarity. Keep improving.**
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" alt="Languages" />
-</p>
+<br/>
 
-<p align="center">
-  <strong>Frontend &bull; Backend &bull; Databases</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi,flask,postgres,mysql" alt="Frontend, Backend, Databases" />
-</p>
+<h2 align="center">🔁 &nbsp;How I Build Agents</h2>
 
-<p align="center">
-  <strong>AI &bull; Data &bull; Developer Tools</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,docker,git,github,vscode" alt="AI, Data, Developer Tools" />
-</p>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1E4A','primaryTextColor':'#E0F2FE','primaryBorderColor':'#38BDF8','lineColor':'#3B82F6','fontFamily':'monospace'}}}%%
+flowchart LR
+    A([Problem]) --> B[Plan<br/>LangGraph]
+    B --> C[Retrieve<br/>RAG · pgvector]
+    C --> D[Act<br/>Tools · APIs]
+    D --> E[Validate<br/>Guards · Evals]
+    E --> F([Ship])
+    E -.feedback.-> B
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-24292E?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Zoho%20Catalyst-E42528?style=flat-square&logo=zoho&logoColor=white" alt="Zoho Catalyst" />
-</p>
+<br/>
 
----
+<h2 align="center">🚀 &nbsp;Projects</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-0284C7?style=for-the-badge" alt="Featured Projects" />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/boomiikas/RetailMindAI">RetailMind AI</a></h3>
-      <p><strong>Adaptive Multi-Agent Retail Decision Intelligence</strong></p>
-      <p>An enterprise-grade retail decision platform combining granular quantile demand forecasting, NetworkX DAG cascading loss analysis, and Pyomo MILP optimization with interactive WhatsApp approvals.</p>
-      <p>
-        <code>Python</code> <code>PyTorch</code> <code>Scikit-learn</code> <code>Pyomo</code> <code>LangGraph</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/boomiikas/Multi-Agent-Software-Testing-and-Bug-Analysis-Platform-">AgentQA</a></h3>
-      <p><strong>Multi-Agent Software Testing &amp; Bug Analysis Platform</strong></p>
-      <p>An autonomous software QA platform powered by an 8-agent LangGraph pipeline, headless Playwright browser automation, live HTTPX API testing with SSRF guards, Bandit AST security scans, and evidence-based root cause analysis.</p>
-      <p>
-        <code>Python</code> <code>LangGraph</code> <code>Playwright</code> <code>HTTPX</code> <code>FastAPI</code> <code>Bandit</code> <code>MongoDB</code> <code>React</code> <code>Ollama</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/boomiikas/skillquery">SkillQuery</a></h3>
-      <p><strong>Student Skills Intelligence &amp; Course Analytics Assistant</strong></p>
-      <p>A natural-language semantic querying and course taxonomy analytics platform for student academic records using PostgreSQL, Groq LLM, guarded text-to-SQL execution, and WhatsApp Cloud API support.</p>
-      <p>
-        <code>FastAPI</code> <code>PostgreSQL</code> <code>Groq LLM</code> <code>WhatsApp API</code> <code>JavaScript</code> <code>AI Evals</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/boomiikas/Handwritten-invoice-text-extraction">InvoiceAI</a></h3>
-      <p><strong>Intelligent Invoice Extraction &amp; Business Analytics Platform</strong></p>
-      <p>An intelligent document processing platform that extracts structured data from handwritten and scanned invoices using PaddleOCR-VL and local LLaMA 3, featuring automated tax validation and real-time BI dashboards.</p>
-      <p>
-        <code>Python</code> <code>PaddleOCR-VL</code> <code>LLaMA 3</code> <code>Flask</code> <code>MongoDB</code> <code>React</code> <code>ReportLab</code>
-      </p>
-    </td>
-  </tr>
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Built with</th>
+</tr>
+<tr>
+<td><a href="https://github.com/boomiikas/RetailMindAI"><b>RetailMind AI</b></a><br/><sub>Multi-agent retail decision intelligence</sub></td>
+<td>Quantile demand forecasting, NetworkX DAG cascading-loss analysis, and Pyomo MILP optimization, with interactive WhatsApp approvals.</td>
+<td><code>PyTorch</code> <code>LangGraph</code> <code>Pyomo</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>React</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/boomiikas/Multi-Agent-Software-Testing-and-Bug-Analysis-Platform-"><b>AgentQA</b></a><br/><sub>Autonomous software testing platform</sub></td>
+<td>An 8-agent LangGraph pipeline with Playwright browser automation, live HTTPX API testing with SSRF guards, Bandit security scans, and evidence-based root cause analysis.</td>
+<td><code>LangGraph</code> <code>Playwright</code> <code>HTTPX</code> <code>FastAPI</code> <code>MongoDB</code> <code>Ollama</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/boomiikas/skillquery"><b>SkillQuery</b></a><br/><sub>Student skills &amp; course analytics assistant</sub></td>
+<td>Natural-language querying over student academic records with guarded text-to-SQL, Groq LLM, course taxonomy analytics, and WhatsApp Cloud API support.</td>
+<td><code>FastAPI</code> <code>PostgreSQL</code> <code>Groq</code> <code>WhatsApp API</code> <code>AI Evals</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/boomiikas/Handwritten-invoice-text-extraction"><b>InvoiceAI</b></a><br/><sub>Invoice extraction &amp; business analytics</sub></td>
+<td>Extracts structured data from handwritten and scanned invoices using PaddleOCR-VL and local LLaMA 3, with automated tax validation and live BI dashboards.</td>
+<td><code>PaddleOCR-VL</code> <code>LLaMA 3</code> <code>Flask</code> <code>MongoDB</code> <code>React</code></td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/boomiikas?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0284C7?style=for-the-badge" alt="Explore All Projects" />
-  </a>
-</p>
+<p align="center"><a href="https://github.com/boomiikas?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories%20→-2563EB?style=for-the-badge"/></a></p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-0284C7?style=for-the-badge" alt="Problem Solving" />
-</p>
+<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
 
-<p align="center">
-  <em>I practise Data Structures &amp; Algorithms, primarily using <strong>Java</strong>, while also solving problems in <strong>Python</strong> and <strong>C</strong>.</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/boomikas?font=Baloo&ext=heatmap&theme=dark" alt="Boomika's LeetCode Stats" />
-</p>
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-0284C7?style=for-the-badge" alt="GitHub Activity" />
-</p>
+**Frontend · Backend · Databases**
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=boomiikas&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Boomika's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=boomiikas&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most Used Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,nodejs,fastapi,flask,postgres,mysql&theme=dark"/>
 
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=boomiikas&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+**AI · Data · Developer Tools**
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,docker,git,github,vscode&theme=dark"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/boomiikas05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/boomikas" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://x.com/boomiikas" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@boomsdotcom" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:boomikas2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+**Agents & LLM Tooling**
+
+<img src="https://img.shields.io/badge/LangGraph-0B1E4A?style=flat-square&logo=langchain&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LangChain-0B1E4A?style=flat-square&logo=chainlink&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/RAG-0B1E4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-0B1E4A?style=flat-square&logo=ollama&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Groq-0B1E4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/pgvector-0B1E4A?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/ChromaDB-0B1E4A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zoho_Catalyst-0B1E4A?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 &nbsp;Activity</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=boomiikas&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE&icon_color=3B82F6&rank_icon=github"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=boomiikas&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE"/>
+
+<br/>
+
+<a href="https://leetcode.com/boomikas"><img src="https://leetcard.jacoblin.cool/boomikas?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="62%" alt="LeetCode stats"/></a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=boomiikas&hide_border=true&background=020617&ring=3B82F6&fire=38BDF8&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=38BDF8&sideLabels=BFDBFE&dates=93C5FD" width="62%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<b>Let's build something intelligent together.</b>
+
+<a href="https://www.linkedin.com/in/boomiikas05/">LinkedIn</a> · <a href="mailto:boomikas2007@gmail.com">Email</a> · <a href="https://leetcode.com/boomikas">LeetCode</a>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:020617,50:1E3A8A,100:38BDF8&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
