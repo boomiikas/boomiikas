@@ -27,21 +27,6 @@ I'm a **Computer Science and Engineering undergraduate at Bannari Amman Institut
 
 <br/>
 
-<h2 align="center">🔁 &nbsp;How I Build Agents</h2>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1E4A','primaryTextColor':'#E0F2FE','primaryBorderColor':'#38BDF8','lineColor':'#3B82F6','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([Problem]) --> B[Plan<br/>LangGraph]
-    B --> C[Retrieve<br/>RAG · pgvector]
-    C --> D[Act<br/>Tools · APIs]
-    D --> E[Validate<br/>Guards · Evals]
-    E --> F([Ship])
-    E -.feedback.-> B
-```
-
-<br/>
-
 <h2 align="center">🚀 &nbsp;Projects</h2>
 
 <table>
